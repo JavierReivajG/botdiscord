@@ -1,0 +1,23 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "un proyecto sobre un bot para discord programado en node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Alejandro Flores Gomez Moises moreno castro",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "latest": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "nodemon": "^2.0.15"
+  }
+}
